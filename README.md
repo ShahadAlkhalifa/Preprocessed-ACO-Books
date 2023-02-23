@@ -1,7 +1,7 @@
 
 # Preprocessed Books from the ACO Library
 
-This repository contains preprocessed books taken from the ACO Library. The books have been preprocessed to remove any noise and degradations and are ready for usage.
+This repository contains preprocessed books taken from the [ACO Library](https://dlib.nyu.edu/aco/). The books have been preprocessed to remove any noise and degradations and are ready for usage.
 
 # Dataset Description
 
